@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.api_key
+data/videos/*
+data/uploads/*
+data/evidence/*
+data/model.joblib
+data/archive/*
+!data/videos/.gitkeep
+!data/uploads/.gitkeep
+!data/evidence/.gitkeep
